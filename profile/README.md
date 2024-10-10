@@ -14,7 +14,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 <div align="center">
 :spider_web: <a href="https://DayOne.dev" target="_new">https://DayOne.dev</a> :spider_web:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-:tv: <a href="https://youtube.com/@DayOneDev" target="_new">@DayOneDev</a> :tv:
+:tv: <a href="https://youtube.com/@DayOneDev" target="_new">youtube.com@DayOneDev</a> :tv:
 <br/> <br/>
   
 <a href="https://DayOne.dev" target="_new">
